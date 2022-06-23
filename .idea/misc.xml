@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.31666666666666665" />
+        <entry key="toasterlibrary/src/main/res/layout/activity_main.xml" value="0.3307291666666667" />
+        <entry key="toasterlibrary/src/main/res/layout/activity_toast.xml" value="0.3307291666666667" />
       </map>
     </option>
   </component>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#12cc78"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    tools:context=".MainActivity">
+    <TextView
+        android:id="@+id/tv_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Screen Android Native"
+        android:textSize="32sp"
+        android:gravity="center"
+        />
+    <EditText
+        android:id="@+id/edt_getString"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="30sp"
+        />
+    <TextView
+        android:id="@+id/tv_getData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="get data: "
+        android:textSize="32sp"
+        android:gravity="center"
+        />
+    <Button
+        android:id="@+id/btn_move_screen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Move React Native (finish)"
+        android:textColor="#0b121a"
+        />
+    <EditText
+        android:id="@+id/edt_input"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="enter data"
+        android:textSize="30sp"
+        />
+    <Button
+        android:id="@+id/btn_move_screen2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Native React Native"
+        android:textColor="#0b121a"
+        />
+
+</LinearLayout>
