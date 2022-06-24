@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:layout_gravity="center"
     android:gravity="center"
-    tools:context=".MainActivity">
+    tools:context=".ToastActivity">
     <TextView
         android:id="@+id/tv_activity"
         android:layout_width="match_parent"
